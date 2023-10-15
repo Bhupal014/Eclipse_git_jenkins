@@ -35,7 +35,15 @@ public static void practiceTest3() {
 @Test
 
 public static void practiceTest4() {
-	System.out.println("This is my Third test");
+	System.out.println("This is my Forth test");
+}
+
+
+
+@Test
+
+public static void practiceTest5() {
+	System.out.println("This is my Fifth test");
 }
 
 
