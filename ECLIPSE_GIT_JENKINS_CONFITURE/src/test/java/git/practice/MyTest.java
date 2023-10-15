@@ -46,6 +46,12 @@ public static void practiceTest5() {
 	System.out.println("This is my Fifth test");
 }
 
+@Test
+
+public static void practiceTest6() {
+	System.out.println("This is my Sixth test");
+}
+
 
 	
 
