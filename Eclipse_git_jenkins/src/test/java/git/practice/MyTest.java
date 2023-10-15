@@ -45,5 +45,10 @@ public static void practiceTest4() {
 public static void practiceTest6() {
 	System.out.println("This is my changed fifth to sixth test");
 }
+@Test
+
+public static void practiceTest7() {
+	System.out.println("This is my seventh test");
+}
 
 }
